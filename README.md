@@ -155,8 +155,8 @@ Open to collaboration and improvements. Feel free to fork and submit pull reques
 
 📬 Contact
 
-* GitHub: (Add your GitHub link here)
-* LinkedIn: (Add your LinkedIn here)
+* GitHub: https://github.com/KhizarNadeem-cyber
+* LinkedIn: https://www.linkedin.com/in/muhammad-khizar-nadeem/
 
 
 ⭐ Acknowledgment
